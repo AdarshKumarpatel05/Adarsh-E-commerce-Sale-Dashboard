@@ -61,7 +61,7 @@ DAX (Calculated Measures)
 
 CSV Dataset
 
-📂 Dataset Information
+Dataset Information
 
 The dataset contains:
 
@@ -86,4 +86,5 @@ Profit
 Adarsh Kumar
 Computer Science & Engineering Diploma Student
 Aspiring Data Analyst
-Project work flow:-Screenshot 2026-01-15 222351.png
+Project work flow:-
+<img width="1864" height="957" alt="Screenshot 2026-01-15 222351" src="https://github.com/user-attachments/assets/c7e2eda5-154c-4bfa-a082-bf0261382626" />
