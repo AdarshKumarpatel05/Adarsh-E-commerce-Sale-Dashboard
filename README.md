@@ -86,4 +86,4 @@ Profit
 Adarsh Kumar
 Computer Science & Engineering Diploma Student
 Aspiring Data Analyst
-Project work flow:-https://github.com/AdarshKumarpatel05/Adarsh-E-commerce-Sale-Dashboard/blob/main/Screenshot%202026-01-15%20222351.png
+Project work flow:-Screenshot 2026-01-15 222351.png
